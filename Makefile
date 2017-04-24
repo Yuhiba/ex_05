@@ -2,7 +2,7 @@ NAME		= apply_on_eq_int_list
 
 SRC			= main.c \
 			my_apply_on_eq_int_list.c \
-			../ex_01/my_params_in_list.c
+			my_params_in_list.c
 
 INCLUDE		= include
 
