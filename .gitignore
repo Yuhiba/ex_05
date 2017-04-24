@@ -1,0 +1,4 @@
+bmy.a
+*.o
+*.DS_Store
+apply_on_eq_in_list
